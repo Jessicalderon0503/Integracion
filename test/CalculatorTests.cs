@@ -1,7 +1,7 @@
 using Xunit;
 using Integracion;
 
-namespace Integracion.Tests
+namespace Integracion.test
 {
     public class CalculatorTests
     {
